@@ -9,7 +9,6 @@ export default function Header() {
           <ul className="flex space-x-6">
             <li><a href="#projects" className="hover:text-blue-400">Projects</a></li>
             <li><a href="#skills" className="hover:text-blue-400">Skills</a></li>
-            <li><a href="#achievements" className="hover:text-blue-400">Achievements</a></li>
           </ul>
         </nav>
       </div>
